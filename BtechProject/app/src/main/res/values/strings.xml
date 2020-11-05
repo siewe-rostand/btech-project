@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Btech Project</string>
+    <string name="title_activity_maps">Claim App</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="send">Send</string>
+    <string name="together_lets_improve">Together lets improve</string>
+</resources>

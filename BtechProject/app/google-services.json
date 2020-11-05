@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870247324285",
+    "firebase_url": "https://end-of-year-project-c6a83.firebaseio.com",
+    "project_id": "end-of-year-project-c6a83",
+    "storage_bucket": "end-of-year-project-c6a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870247324285:android:3e29db7d1a3db6a8386f14",
+        "android_client_info": {
+          "package_name": "com.example.btechproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870247324285-10vt7cj6f9c4ogin8mp79ttff1jo59tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32Sq-0W0p_vplmn2I1j4a4kSxKxdvljk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870247324285-10vt7cj6f9c4ogin8mp79ttff1jo59tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
